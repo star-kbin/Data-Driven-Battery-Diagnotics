@@ -10,4 +10,4 @@ Battery Analysis and Predictive Platform
 - 배터리 진단 기술 현황
 - 배터리 열폭주 및 안전진단
 - 민테크의 데이터 기반 배터리 진단 기술
-  
+[PDF] [K-배터리쇼] 데이터 기반 배터리 진단 기술_민테크_24.09.26.pdf
